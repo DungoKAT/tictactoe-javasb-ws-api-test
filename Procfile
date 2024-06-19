@@ -1,1 +1,1 @@
-web: java -jar target/tictactoe-websocket-api-test.jar
+web: java -jar target/tictactoe-javasb-ws-api-test.jar
