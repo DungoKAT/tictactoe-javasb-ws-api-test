@@ -34,7 +34,7 @@ import com.tictactoe.back_end.exception.NotFoundException;
 @AllArgsConstructor
 @RestController
 @RequestMapping("/game")
-@CrossOrigin(origins = "http://127.0.0.1:5173")
+@CrossOrigin(origins = "https://tictactoe-react-javasb-ws-test.netlify.app")
 public class GameController {
     private final GameService gameService;
     private SimpMessagingTemplate simpMessagingTemplate;
