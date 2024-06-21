@@ -5,8 +5,6 @@ _Technology ที่ใช้_
 -   Java Spring Boot
 -   Websocket
 
-# วิธีการ setup
-
 # วิธีการ Run
 
 สามารถรันได้ด้วยปุ่ม run spring boot
