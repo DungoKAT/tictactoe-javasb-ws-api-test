@@ -9,7 +9,8 @@ _Technology ที่ใช้_
 
 สามารถรันได้ด้วยปุ่ม run spring boot
 หรือสามารถเข้าได้ผ่าน heroku url
-https://tictactoe-javasb-ws-api-test-56fc563f6ba3.herokuapp.com
+https://tictactoe-javasb-ws-api-test-56fc563f6ba3.herokuapp.com/game
+โดยหากต้องการดูข้อมูลต่างๆให้ใส่ /user/all หรือ /game/all แทน /game
 
 # วิธีออกแบบโปรแกรมและ algorithm ที่ใช้
 
