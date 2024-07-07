@@ -23,6 +23,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 @AllArgsConstructor
 @RestController
 @RequestMapping("/user")
+// @CrossOrigin(origins = "http://127.0.0.1:5173")
 @CrossOrigin(origins = "https://tictactoe-react-javasb-ws-test.netlify.app")
 public class UserController {
     private final UserService userService;
